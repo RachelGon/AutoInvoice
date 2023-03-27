@@ -2,8 +2,8 @@ from datetime import date
 from datetime import datetime, timedelta
 
 import docx
-from docx.enum.text import WD_ALIGN_PARAGRAPH
-from docx.shared import Inches, Pt
+# from docx.enum.text import WD_ALIGN_PARAGRAPH
+# from docx.shared import Inches, Pt
 
 
 # Checks if it was a holiday
